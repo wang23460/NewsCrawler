@@ -16,3 +16,6 @@ These function are created to collect one month news before IPO of each company 
 udn_crawler.ipynb contains functions crawling on [United Daily News database](https://udndata.com/ndapp/Index).
 
 These function are created to collect one month news before IPO of each company listed on Taiwan Stock Exchange or Over-the-counter market from United Daily News Database.
+
+## News data file
+News collect from KMW and Udn news database
