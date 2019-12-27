@@ -1,3 +1,12 @@
+# News Crawler 
+These news crawler functions are written for Research needs.
+
+News that collected will be processed and transformed into sentiment to analysis correlation between news sentiment and IPO underpricing. 
+
+One who want to use these functions should notice that since these two news database requir login.
+
+(I connect to VPN of National Central University or connect to NCU interet to fixed my IP address)
+
 ## Infotimes Crawler 知識贏家爬蟲
 Infotimes_crawler.ipynb contains functions crawling on [Knowledge Management Winner news search page](http://kmw.chinatimes.com/News/NewsSearch.aspx?searchkind=s).
 
