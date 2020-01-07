@@ -1,5 +1,5 @@
 # News Crawler 
-These news crawler functions are written for esearch needs.
+These news crawler functions are written for research needs.
 
 News that collected will be processed and transformed into sentiment to analysis correlation between news sentiment and IPO underpricing. 
 
